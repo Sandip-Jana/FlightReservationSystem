@@ -3,7 +3,7 @@ import java.awt.*;
 import java.awt.event.*;
 import javax.swing.*;
 /*
- * *@Author - Team Errorz
+ * @Author - Sandip Jana
  */
 public class DisplayPage extends javax.swing.JFrame {
      int i;
