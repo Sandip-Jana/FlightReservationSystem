@@ -9,7 +9,5 @@ public class ComboFlight
     String silkarrival;
     String silkdeparture;
     String duration;
-    int hour;
-    int min;
-    int numberofpassengers;
+    int hour ,  min ,  numberofpassengers;
 }
